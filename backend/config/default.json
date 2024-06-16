@@ -1,0 +1,12 @@
+{
+    "mongodb": {
+        "connectionString": "mongodb+srv://mymongo:mymongo123@cluster0.qtg3a9q.mongodb.net/online_examination?retryWrites=true&w=majority"
+    },
+    "jwt": {
+        "secret" : "online_examination_secret_key"
+    },
+    "mail-credentials" : {
+        "userid" :"<smtp server userId>",
+        "password" : "<smtp server password>"
+    }
+}
